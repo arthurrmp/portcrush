@@ -19,6 +19,10 @@ A single-binary TUI that lists active ports and lets you kill them instantly. Al
 brew install arthurrmp/tap/portcrush
 ```
 
+```
+cargo install portcrush
+```
+
 ## Usage
 
 ```
